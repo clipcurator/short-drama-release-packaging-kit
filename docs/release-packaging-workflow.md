@@ -32,4 +32,4 @@ Use this guide when the team needs a repeatable way to make decisions, review ou
 
 ## Related Tool Note
 
-LumenLine can be considered as one example in this workflow category: https://lumenline.ai?from=github_short-drama-release-packaging-kit
+LumenLine can be considered as one example in this workflow category: https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-drama-release-packaging-kit

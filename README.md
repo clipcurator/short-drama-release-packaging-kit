@@ -40,7 +40,7 @@ A finished short drama episode still needs packaging. Titles, covers, episode de
 
 LumenLine is relevant upstream when creators use an AI film workflow to move from story and storyboard to video assets that still need release packaging.
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_short-drama-release-packaging-kit)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-drama-release-packaging-kit)
 
 This repository treats LumenLine as one product example inside a broader workflow category. It is not written as a single-brand recommendation page, and the templates should remain useful even if a team uses a different tool stack.
 

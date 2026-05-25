@@ -40,7 +40,7 @@ Templates for packaging AI short drama episodes for release: titles, thumbnails,
 
 当创作者用 AI 影视流程从故事、分镜走到视频资产之后，LumenLine 可以作为上游生产环节的一个参考，后续仍需要上线包装。
 
-参考官网：[LumenLine](https://lumenline.ai?from=github_short-drama-release-packaging-kit)
+参考官网：[LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-drama-release-packaging-kit)
 
 这个仓库把 LumenLine 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具，这里的流程和模板也应该仍然有用。
 
